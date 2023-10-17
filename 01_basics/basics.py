@@ -1,0 +1,1 @@
+print("pyton is interpreted laguage meannig one line a  time")
