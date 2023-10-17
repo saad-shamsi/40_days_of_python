@@ -4,7 +4,7 @@ print(5*8)
 print(2/6) # it gives floating point number e.g: 3.0
 print(2//6) # it gives INT e.g:3
 print(2**4) 
-print(11%2) #Remainder after division
+print(11%2) #Remainder after division e.g:1
 
 # PEMDAS (Perethesis Exponents Multiplication Division Addition Subatraction)
  

@@ -1,1 +1,1 @@
-print("pyton is interpreted laguage meannig one line a  time")
+print("Hello World and welcome to 40 days of python")
