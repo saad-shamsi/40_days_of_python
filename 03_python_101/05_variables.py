@@ -21,7 +21,10 @@
 # 123_list   # Starts with a number
 # my-list    # Contains a hyphen
 # for        # Is a reserved word in Python
+samosa = ("dhania", "podina", "aloo", "zeera")
+samosa_quantiy = 1, 2, 2, 23, "b", "c"
+print(type(samosa))  # tuple
+print(type(samosa_quantiy))  # tuple
 
-
-mang= "magoes"
+mang = "magoes"
 print(type(mang))
